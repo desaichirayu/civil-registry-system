@@ -101,9 +101,9 @@ hs_err_pid*
 target/
 
 ### NetBeans ###
-**/nbproject/private/
-**/nbproject/Makefile-*.mk
-**/nbproject/Package-*.bash
+nbproject/private/
+nbproject/Makefile-*.mk
+nbproject/Package-*.bash
 build/
 nbbuild/
 dist/
