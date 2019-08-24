@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/crs1/insert_data?WSDL" uri="wsdl/localhost_8080/crs1/insert_data.wsdl"/>
+    <system systemId="http://localhost:8080/crs1/insert_data?xsd=1" uri="wsdl/localhost_8080/crs1/insert_data.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/NewWebService/NewWebService?WSDL" uri="wsdl/localhost_8080/NewWebService/NewWebService.wsdl"/>
+    <system systemId="http://localhost:8080/NewWebService/NewWebService?xsd=1" uri="wsdl/localhost_8080/NewWebService/NewWebService.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/webservice/update_db?WSDL" uri="wsdl/localhost_8080/webservice/update_db.wsdl"/>
+    <system systemId="http://localhost:8080/webservice/update_db?xsd=1" uri="wsdl/localhost_8080/webservice/update_db.xsd_1.xsd"/>
+</catalog>
